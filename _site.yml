@@ -24,7 +24,4 @@ navbar:
   - label: "Google Scholar"
     icon: fa-graduation-cap fa-lg
     href: https://scholar.google.no/citations?hl=en&pli=1&user=GRG21B8AAAAJ
-output:
-  html_document:
-  - theme: darkly
 output_dir: docs

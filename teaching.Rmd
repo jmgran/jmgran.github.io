@@ -2,5 +2,13 @@
 pagetitle: "Teaching"
 ---
 
-I teach courses in introductory statistics (e.g. [MF9130](https://www.uio.no/studier/emner/medisin/med/MF9130E/)), survival analysis (e.g. [MF9510](https://www.uio.no/studier/emner/medisin/med/MF9510E/)) and causal inference ([MF9570](https://www.uio.no/studier/emner/medisin/med/MF9570/)) at the Faculty of Medicine, University of Oslo.
+```{js, echo=FALSE}  
+(function() {  
+  for (const link of document.getElementsByTagName('a')) {  
+    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';  
+  }  
+})();  
+``` 
+
+I teach courses in introductory statistics (e.g. [MF9130](https://www.uio.no/studier/emner/medisin/med/MF9130E/){target="_blank"}), survival analysis (e.g. [MF9510](https://www.uio.no/studier/emner/medisin/med/MF9510E/){target="_blank"}) and causal inference ([MF9570](https://www.uio.no/studier/emner/medisin/med/MF9570/){target="_blank"}) at the Faculty of Medicine, University of Oslo.
 

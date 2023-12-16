@@ -301,11 +301,19 @@ $(document).ready(function () {
 </div>
 
 
+<script>
+(function() {  
+  for (const link of document.getElementsByTagName('a')) {  
+    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';  
+  }  
+})();  
+</script>
 <p>I am a professor of biostatistics at the <a
-href="https://www.med.uio.no/imb/english/research/centres/ocbe/">Oslo
-Centre of Biostatistics and Epidemiology</a>, Department of
-Biostatistics, <a href="https://www.uio.no">University of Oslo</a>,
-working on causal inference and time-to-event analysis.</p>
+href="https://www.med.uio.no/imb/english/research/centres/ocbe/"
+target="_blank">Oslo Centre of Biostatistics and Epidemiology</a>,
+Department of Biostatistics, <a href="https://www.uio.no/english"
+target="_blank">University of Oslo</a>, working on causal inference and
+time-to-event analysis.</p>
 <p>I have PhD in biostatistics from the University of Oslo in 2011 and a
 MSc in Industrial Mathematics from the Norwegian University of Science
 and Technology in Trondheim from 2005. I have previously had positions
@@ -313,12 +321,14 @@ at the Section for Biostatistics and Epidemiology at the Oslo University
 Hospital and at the Department of Infectious Disease Epidemiology at the
 Norwegian Institute of Public Health.</p>
 <p>I am currently an associate editor in <a
-href="https://academic.oup.com/biomet">Biometrika</a>.</p>
+href="https://academic.oup.com/biomet"
+target="_blank">Biometrika</a>.</p>
 <p>See also my <a
-href="https://www.med.uio.no/imb/english/people/aca/jonmic/index.html">personal
-web pages at the University of Oslo</a> and the web pages of our <a
-href="https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html">causal
-inference group</a>.</p>
+href="https://www.med.uio.no/imb/english/people/aca/jonmic/index.html"
+target="_blank">web pages at the University of Oslo</a> and the web
+pages of our <a
+href="https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html"
+target="_blank">causal inference and survival analysis group</a>.</p>
 
 
 

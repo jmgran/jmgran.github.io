@@ -301,13 +301,21 @@ $(document).ready(function () {
 </div>
 
 
+<script>
+(function() {  
+  for (const link of document.getElementsByTagName('a')) {  
+    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';  
+  }  
+})();  
+</script>
 <p>I teach courses in introductory statistics (e.g. <a
-href="https://www.uio.no/studier/emner/medisin/med/MF9130E/">MF9130</a>),
-survival analysis (e.g. <a
-href="https://www.uio.no/studier/emner/medisin/med/MF9510E/">MF9510</a>)
-and causal inference (<a
-href="https://www.uio.no/studier/emner/medisin/med/MF9570/">MF9570</a>)
-at the Faculty of Medicine, University of Oslo.</p>
+href="https://www.uio.no/studier/emner/medisin/med/MF9130E/"
+target="_blank">MF9130</a>), survival analysis (e.g. <a
+href="https://www.uio.no/studier/emner/medisin/med/MF9510E/"
+target="_blank">MF9510</a>) and causal inference (<a
+href="https://www.uio.no/studier/emner/medisin/med/MF9570/"
+target="_blank">MF9570</a>) at the Faculty of Medicine, University of
+Oslo.</p>
 
 
 

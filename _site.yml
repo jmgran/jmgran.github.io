@@ -1,1 +1,29 @@
-
+name: 'Jon Michael Gran'
+navbar:
+  title: 'Jon Michael Gran'
+  left:
+  - icon: fa-home fa-lg
+    href: index.html
+  - text: 'Research'
+    href: research.html
+  - text: 'Teaching'
+    href: teaching.html
+  right: 
+  - label: "E-mail"
+    icon: fa-envelope fa-lg
+    href: mailto:<j.m.gran@medisin.uio.no>
+  - label: "GitHub"
+    icon: fa-github fa-lg
+    href: http://github.com/jmgran/
+  - label: "Twitter"
+    icon: fa-twitter fa-lg
+    href: http://twitter.com/jomgran/
+  - label: "LinkedIn"
+    icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/jmgran/
+  - label: "Google Scholar"
+    icon: fa-graduation-cap fa-lg
+    href: https://scholar.google.no/citations?hl=en&pli=1&user=GRG21B8AAAAJ
+output:
+  html_document:
+  - theme: darkly

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Research"
+title: "Research"
 ---
 
 ```{js, echo=FALSE}  

@@ -1,5 +1,7 @@
 name: 'Jon Michael Gran'
-output_dir: docs
+title: 'Jon Michael Gran'
+output_dir: 'docs'
+type: website
 output:
   html_document:
     self_contained: no

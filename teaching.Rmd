@@ -2,6 +2,12 @@
 title: "Teaching"
 ---
 
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
 ```{js, echo=FALSE}  
 (function() {  
   for (const link of document.getElementsByTagName('a')) {  

@@ -1,6 +1,15 @@
 ---
 title: "About"
+navbar:
+  search: true
 ---
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
 
 ```{js, echo=FALSE}  
 (function() {  

@@ -1,7 +1,5 @@
 ---
 title: "About"
-navbar:
-  search: true
 ---
 
 <style type="text/css">
@@ -19,7 +17,7 @@ navbar:
 })();  
 ``` 
 
-I am a professor of biostatistics at the [Oslo Centre of Biostatistics and Epidemiology](https://www.med.uio.no/imb/english/research/centres/ocbe/){target="_blank"}, Department of Biostatistics, University of Oslo, working on causal inference and time-to-event analysis.
+I am a professor of biostatistics at the [Oslo Centre of Biostatistics and Epidemiology](https://www.med.uio.no/imb/english/research/centres/ocbe/){target="_blank"}, Department of Biostatistics, University of Oslo, working on methods for causal inference and time-to-event analysis.
 
 I have a PhD in biostatistics from the University of Oslo in 2011 and a MSc in Industrial Mathematics from the Norwegian University of Science and Technology in Trondheim in 2005. Previously I have had positions at the Section for Biostatistics and Epidemiology at the Oslo University Hospital, and at the Department of Infectious Disease Epidemiology at the Norwegian Institute of Public Health. 
 

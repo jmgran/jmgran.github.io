@@ -8,7 +8,6 @@ title: "About"
 }
 </style>
 
-
 ```{js, echo=FALSE}  
 (function() {  
   for (const link of document.getElementsByTagName('a')) {  
@@ -24,10 +23,12 @@ title: "About"
   } 
 </style> 
 
-<img align="right" src="https://www.med.uio.no/imb/english/people/aca/jonmic/160317_oh_020-gran-s.jpg" width="17.5%" class="image-spacing"> I am a professor of biostatistics at the [Oslo Centre of Biostatistics and Epidemiology](https://www.med.uio.no/imb/english/research/centres/ocbe/){target="_blank"}, Department of Biostatistics, University of Oslo, working on methods for causal inference and time-to-event analysis.
+<img align="right" src="https://www.med.uio.no/imb/english/people/aca/jonmic/160317_oh_020-gran-s.jpg" width="17.5%" class="image-spacing"> I am a professor of biostatistics at the [Oslo Centre of Biostatistics and Epidemiology](https://www.med.uio.no/imb/english/research/centres/ocbe/){target="_blank"}, Department of Biostatistics, University of Oslo.
 
-I have a PhD in biostatistics from the University of Oslo in 2011 and a MSc in Industrial Mathematics from the Norwegian University of Science and Technology in Trondheim in 2005. Previously I have had positions at the Section for Biostatistics and Epidemiology at the Oslo University Hospital, and at the Department of Infectious Disease Epidemiology at the Norwegian Institute of Public Health. 
+I have a PhD in biostatistics from the University of Oslo in 2011 and a MSc in Industrial Mathematics from the Norwegian University of Science and Technology in Trondheim in 2005. In the past I have also had (part time) positions at the Section for Biostatistics and Epidemiology at the Oslo University Hospital and at the Department of Infectious Disease Epidemiology at the Norwegian Institute of Public Health (NIPH). 
 
-From 2018 I have been an associate editor in [Biometrika](https://academic.oup.com/biomet){target="_blank"}.
+Currently I have a part time position at the [Department of Method Development and Analytics](https://www.fhi.no/en/ab/departments-and-centres/method-development-and-analytics/){target="_blank"} at the Division of Infection Control and Environmental Health at NIPH.
+
+I have been an associate editor in [Biometrika](https://academic.oup.com/biomet){target="_blank"} since 2018.
 
 See also my [web pages at the University of Oslo](https://www.med.uio.no/imb/english/people/aca/jonmic/index.html){target="_blank"} and the web pages of the [causal inference and survival analysis group](https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html){target="_blank"}.

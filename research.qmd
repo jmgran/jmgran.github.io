@@ -1,0 +1,13 @@
+---
+title: "Research"
+format: html
+css: styles.css
+---
+
+<center>
+
+My main research interests are causal inference and time-to-event analysis. In particular, I have worked on methods for estimating the effects of time-varying treatments on survival outcomes under time-dependent confounding and multi-state modelling of event history data. I also have an interest in studies of infectious diseases, and have done some work on topics such as vaccine effectiveness, excess mortality, infectious disease surveillance and infectious disease modelling.
+
+I am interested in applications using both randomised and observational data, and in particular event history outcomes construced using data from linked clinical and population-wide registries. I am currently involved in various collaborative projects, e.g. on the effects of rehabilitation and pain medication on patient outcomes after traumatic injury with researchers at [the Oslo University Hospital](https://www.ous-research.no/ipot/){target="_blank"}, and on the effects of rehabilitation and workplace initiatives on long-term sick leave and work-related outcomes with researchers at [the National Institute of Occupational Health in Norway](https://stami.no/en/){target="_blank"}. I currently lead research projects with funding from the Institute of Basic Medical Sciences, University of Oslo, and from the Research Council of Norway.
+
+See my [Google Scholar profile](https://scholar.google.no/citations?hl=en&pli=1&user=GRG21B8AAAAJ){target="_blank"} for publications.

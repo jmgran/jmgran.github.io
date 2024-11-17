@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "Jon Michael Gran"
+  site-url: "https://jmgran.github.io"
+  repo-url: "https://github.com/jmgran/jmgran.github.io"
+  google-analytics:
+    tracking-id: "G-0ERZY71XDJ"
+    anonymize-id: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right: 
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://jmgran.bsky.social
+      - text: "{{< iconify fa6-brands linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/jmgran/
+      - text: "{{< iconify fa6-brands x-twitter size=1.1em title='X' >}}"
+        href: https://twitter.com/jomgran
+      - text: "{{< iconify fa6-brands google-scholar size=1.1em title='Google Scholar' >}}"
+        href: https://scholar.google.no/citations?user=GRG21B8AAAAJ
+      - text: "{{< iconify fa6-brands github size=1.1em title='Github' >}}"
+        href: https://github.com/jmgran
+      - text: "{{< iconify fa6-solid envelope size=1.1em title='X' >}}"
+        href: mailto:<j.m.gran@medisin.uio.no>
+
+format:
+  html:
+    page-layout: full
+    theme: 
+      light: [flatly, custom_light.scss]
+      dark: [darkly, custom_dark.scss]
+    css: styles.css
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: a11y
+
+

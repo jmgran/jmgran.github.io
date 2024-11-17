@@ -24,12 +24,16 @@ website:
         target: "_new"
       - text: "{{< iconify fa6-brands linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/jmgran/
+        target: "_new"
       - text: "{{< iconify fa6-brands x-twitter size=1.1em title='X' >}}"
         href: https://twitter.com/jomgran
+        target: "_new"
       - text: "{{< iconify fa6-brands google-scholar size=1.1em title='Google Scholar' >}}"
         href: https://scholar.google.no/citations?user=GRG21B8AAAAJ
+        target: "_new"
       - text: "{{< iconify fa6-brands github size=1.1em title='Github' >}}"
         href: https://github.com/jmgran
+        target: "_new"
       - text: "{{< iconify fa6-solid envelope size=1.1em title='X' >}}"
         href: mailto:<j.m.gran@medisin.uio.no>
 

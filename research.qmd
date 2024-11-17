@@ -2,6 +2,8 @@
 title: "Research"
 format: html
 css: styles.css
+about:
+  template: jolla
 ---
 
 <center>

@@ -21,6 +21,7 @@ website:
     right: 
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
         href: https://jmgran.bsky.social
+        target: "_new"
       - text: "{{< iconify fa6-brands linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/jmgran/
       - text: "{{< iconify fa6-brands x-twitter size=1.1em title='X' >}}"

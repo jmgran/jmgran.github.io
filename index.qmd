@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: ""
+title-prefix: ""
 format: html
 css: styles.css
 about:

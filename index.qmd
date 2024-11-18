@@ -1,5 +1,5 @@
 ---
-pagetitle: "About"
+pagetitle: "Jon Michael Gran - About"
 format: html
 css: styles.css
 about:

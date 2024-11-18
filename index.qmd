@@ -13,4 +13,4 @@ I am a professor of biostatistics at [Oslo Centre of Biostatistics and Epidemiol
 
 Currently I also have a 20% position at the [Department of Method Development and Analytics](https://www.fhi.no/en/ab/departments-and-centres/method-development-and-analytics/){target="_blank"}, Division of Infection Control and Environmental Health, at the Norwegian Institute of Public Health, and since 2018, I've been an associate editor in [Biometrika](https://academic.oup.com/biomet){target="_blank"}.
 
-See also my [personal web pages at the University of Oslo](https://www.med.uio.no/imb/english/people/aca/jonmic/index.html){target="_blank"} and the [web pages of our causal inference and survival analysis group](https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html){target="_blank"}.
+See also [my web pages at the University of Oslo](https://www.med.uio.no/imb/english/people/aca/jonmic/index.html){target="_blank"} and [the web pages of our causal inference and survival analysis group](https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html){target="_blank"}.

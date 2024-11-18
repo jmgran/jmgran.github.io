@@ -10,7 +10,7 @@ website:
     tracking-id: "G-0ERZY71XDJ"
     anonymize-id: true
   navbar:
-    title: false
+    title: "Jon Michael Gran"
     pinned: true
     left:
       - href: index.qmd

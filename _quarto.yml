@@ -9,6 +9,7 @@ website:
   google-analytics:
     tracking-id: "G-0ERZY71XDJ"
     anonymize-id: true
+  reader-mode: false
   navbar:
     title: "Jon Michael Gran"
     pinned: true

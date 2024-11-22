@@ -36,7 +36,7 @@ website:
       - text: "{{< iconify fa6-brands github size=1.1em title='Github' >}}"
         href: https://github.com/jmgran
         target: "_new"
-      - text: "{{< iconify fa6-solid envelope size=1.1em title='X' >}}"
+      - text: "{{< iconify fa6-solid envelope size=1.1em title='e-mail' >}}"
         href: mailto:<j.m.gran@medisin.uio.no>
 
 format:

@@ -1,5 +1,7 @@
 ---
 pagetitle: "Jon Michael Gran - About"
+#title: "Jon Michael Gran"
+#subtitle: "Professor of biostatistics at the University of Oslo"
 format: html
 css: styles.css
 about:
@@ -9,8 +11,13 @@ about:
   image-shape: round
 ---
 
-Professor of biostatistics at the [Oslo Centre of Biostatistics and Epidemiology](https://www.med.uio.no/imb/english/research/centres/ocbe/){target="_blank"}, Department of Biostatistics, University of Oslo, working on causal inference and survival/event history analysis.
+[{{< iconify fa6-brands bluesky size=1.8em title='Bluesky' >}}](https://jmgran.bsky.social){target="_blank"style="float:center; padding-right:10px"}
+[{{< iconify fa6-brands google-scholar size=1.8em title='Google Scholar' >}}](https://scholar.google.no/citations?user=GRG21B8AAAAJ){target="_blank"style="float:center; padding-right:10px"}
+[{{< iconify fa6-brands github size=1.8em title='Github' >}}](https://github.com/jmgran){target="_blank" style="float:center; padding-right:10px"}
+[{{< iconify fa6-solid envelope size=1.8em title='e-mail' >}}](mailto:<j.m.gran@medisin.uio.no>)<br><br>
 
-I currently also hold a 20% position at the [Department of Method Development and Analytics](https://www.fhi.no/en/ab/departments-and-centres/method-development-and-analytics/){target="_blank"}, Division of Infection Control and Environmental Health, at the Norwegian Institute of Public Health, and I'm an associate editor in [Biometrika](https://academic.oup.com/biomet){target="_blank"}.
+I'm a professor of biostatistics at the [Oslo Centre of Biostatistics and Epidemiology](https://www.med.uio.no/imb/english/research/centres/ocbe/){target="_blank"}, Department of Biostatistics, University of Oslo, working on causal inference and survival/event history analysis.
 
-See [my web pages at the University of Oslo](https://www.med.uio.no/imb/english/people/aca/jonmic/index.html){target="_blank"} and [the pages of our causal inference and survival analysis group](https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html){target="_blank"}.
+I also hold a 20% position as researcher at the [Department of Method Development and Analytics](https://www.fhi.no/en/ab/departments-and-centres/method-development-and-analytics/){target="_blank"}, Division of Infection Control and Environmental Health, at the Norwegian Institute of Public Health, and I'm an associate editor in [Biometrika](https://academic.oup.com/biomet){target="_blank"}.
+
+See also [my web pages at the University of Oslo](https://www.med.uio.no/imb/english/people/aca/jonmic/index.html){target="_blank"} and [the pages of our causal inference and survival analysis group](https://www.med.uio.no/imb/english/research/groups/causal-inference-methods/index.html){target="_blank"}.

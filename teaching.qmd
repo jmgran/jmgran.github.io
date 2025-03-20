@@ -9,4 +9,4 @@ about:
 
 I currently teach courses in causal inference (e.g. [MF9570](https://www.uio.no/studier/emner/medisin/med/MF9570/){target="_blank"}), survival analysis (e.g. [MF9510](https://www.uio.no/studier/emner/medisin/med/MF9510E/){target="_blank"}), and introductory statistics (e.g. [MF9130](https://www.uio.no/studier/emner/medisin/med/MF9130E/){target="_blank"}), mainly at the PhD program at the Faculty of Medicine, University of Oslo.
 
-In 2024 I held an online ISCB course in biostatistics together with Ruth Keogh on [causal inference for time-to-event outcomes with practical applications in R](iscbcourse), which might be repeated in the future (in some format).
+In 2024 I held an online ISCB course in biostatistics together with Ruth Keogh on [causal inference for time-to-event outcomes with practical applications in R](iscbcourse). In 2025 we we will hold a version of the same course as a pre-conference course at the [Nordic-Baltic Biometric Conference](https://www.nbbc2025.com) in Oslo.

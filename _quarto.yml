@@ -18,8 +18,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: teaching.qmd
-        text: Teaching
+      - href: courses.qmd
+        text: Courses
 #    right: 
 #      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
 #        href: https://jmgran.bsky.social

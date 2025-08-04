@@ -13,6 +13,7 @@ about:
 
 [{{< iconify fa6-brands bluesky size=1.8em title='Bluesky' >}}](https://jmgran.bsky.social){target="_blank"style="float:center; padding-right:10px"}
 [{{< iconify fa6-brands google-scholar size=1.8em title='Google Scholar' >}}](https://scholar.google.no/citations?user=GRG21B8AAAAJ){target="_blank"style="float:center; padding-right:10px"}
+[{{< iconify f7 tree size=1.8em title='Mathematics Genealogy Project' >}}](https://www.mathgenealogy.org/id.php?id=287297){target="_blank"style="float:center; padding-right:10px"}
 [{{< iconify fa6-brands github size=1.8em title='Github' >}}](https://github.com/jmgran){target="_blank" style="float:center; padding-right:10px"}
 [{{< iconify fa6-solid envelope size=1.8em title='e-mail' >}}](mailto:<j.m.gran@medisin.uio.no>)<br><br>
 

@@ -32,7 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -99,8 +98,8 @@ gtag('config', 'G-0ERZY71XDJ', { 'anonymize_ip': true});
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses.html" rel="" target="">
- <span class="menu-text">Courses</span></a>
+    <a class="nav-link active" href="./teaching.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -116,37 +115,22 @@ gtag('config', 'G-0ERZY71XDJ', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla column-page">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Teaching</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-</header>
-
-<style type="text/css">
-  body{
-  font-size: 12pt;
-}
-</style>
-<p><code>{js, echo=FALSE}   (function() {     for (const link of document.getElementsByTagName('a')) {       if (/^(https?:)?\/\//.test(link.getAttribute('href'))) link.target = '_blank';     }   })();</code></p>
-<p>I teach courses in causal inference (<a href="https://www.uio.no/studier/emner/medisin/med/MF9570/" target="_blank">MF9570</a>), survival analysis (e.g.&nbsp;<a href="https://www.uio.no/studier/emner/medisin/med/MF9510E/" target="_blank">MF9510</a>) and introductory statistics (e.g.&nbsp;<a href="https://www.uio.no/studier/emner/medisin/med/MF9130E/" target="_blank">MF9130</a>) at the Faculty of Medicine, University of Oslo, and other shorter courses.</p>
-<p>In april 2024 I held an <a href="iscbcourse">online ISCB course in biostatistics</a> together with Ruth Keogh on causal inference for time-to-event outcomes with practical applications in R.</p>
+</header><main class="content column-page" id="quarto-document-content">
+<center>
+<p>I currently teach courses in causal inference (e.g.&nbsp;<a href="https://www.uio.no/studier/emner/medisin/med/MF9570/" target="_blank">MF9570</a>), survival analysis (e.g.&nbsp;<a href="https://www.uio.no/studier/emner/medisin/med/MF9510E/" target="_blank">MF9510</a>), and introductory statistics (e.g.&nbsp;<a href="https://www.uio.no/studier/emner/medisin/med/MF9130E/" target="_blank">MF9130</a>), mainly at the PhD program at the Faculty of Medicine, University of Oslo.</p>
+<p>In 2024 I held an online ISCB course in biostatistics together with Ruth Keogh on <a href="iscbcourse" target="_blank">causal inference for time-to-event outcomes with practical applications in R</a>. In 2025 we held <a href="nbbccourse" target="_blank">a shorter version of this course</a> as a pre-conference course at the <a href="https://www.nbbc2025.com" target="_blank">Nordic-Baltic Biometric Conference</a> in Oslo.</p>
 
 
-
-</main> <!-- /main -->
+</center></main>  
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -282,13 +266,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
